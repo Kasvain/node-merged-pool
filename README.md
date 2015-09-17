@@ -52,6 +52,8 @@ May be working (needs additional testing):
 * ? *Qubit* (Qubitcoin [Q2C], Myriadcoin [MYR])
 * ? *SHAvite-3* (INKcoin [INK])
 * ? *Sha1* (Sha1coin [SHA], Yaycoin [YAY])
+* ? *Lyra2RE*
+* ? *Lyra2REv2* (Vertcoin [VTC])
 
 Not working currently:
 * *Groestl* - for Myriadcoin
